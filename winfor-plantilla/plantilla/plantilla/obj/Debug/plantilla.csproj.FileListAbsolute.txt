@@ -1,0 +1,19 @@
+C:\_data\_personal data\Empresarial\software\winfor-plantilla\plantilla\plantilla\bin\Debug\plantilla.exe.config
+C:\_data\_personal data\Empresarial\software\winfor-plantilla\plantilla\plantilla\bin\Debug\plantilla.exe
+C:\_data\_personal data\Empresarial\software\winfor-plantilla\plantilla\plantilla\bin\Debug\plantilla.pdb
+C:\_data\_personal data\Empresarial\software\winfor-plantilla\plantilla\plantilla\obj\Debug\plantilla.csprojResolveAssemblyReference.cache
+C:\_data\_personal data\Empresarial\software\winfor-plantilla\plantilla\plantilla\obj\Debug\plantilla.Form1.resources
+C:\_data\_personal data\Empresarial\software\winfor-plantilla\plantilla\plantilla\obj\Debug\plantilla.Properties.Resources.resources
+C:\_data\_personal data\Empresarial\software\winfor-plantilla\plantilla\plantilla\obj\Debug\plantilla.csproj.GenerateResource.Cache
+C:\_data\_personal data\Empresarial\software\winfor-plantilla\plantilla\plantilla\obj\Debug\plantilla.exe
+C:\_data\_personal data\Empresarial\software\winfor-plantilla\plantilla\plantilla\obj\Debug\plantilla.pdb
+C:\Users\rbren\Desktop\personal\Empresarial\software proy desarrollo\winfor-plantilla\plantilla\plantilla\bin\Debug\plantilla.exe.config
+C:\Users\rbren\Desktop\personal\Empresarial\software proy desarrollo\winfor-plantilla\plantilla\plantilla\bin\Debug\plantilla.exe
+C:\Users\rbren\Desktop\personal\Empresarial\software proy desarrollo\winfor-plantilla\plantilla\plantilla\bin\Debug\plantilla.pdb
+C:\Users\rbren\Desktop\personal\Empresarial\software proy desarrollo\winfor-plantilla\plantilla\plantilla\obj\Debug\plantilla.csproj.AssemblyReference.cache
+C:\Users\rbren\Desktop\personal\Empresarial\software proy desarrollo\winfor-plantilla\plantilla\plantilla\obj\Debug\plantilla.Form1.resources
+C:\Users\rbren\Desktop\personal\Empresarial\software proy desarrollo\winfor-plantilla\plantilla\plantilla\obj\Debug\plantilla.Properties.Resources.resources
+C:\Users\rbren\Desktop\personal\Empresarial\software proy desarrollo\winfor-plantilla\plantilla\plantilla\obj\Debug\plantilla.csproj.GenerateResource.cache
+C:\Users\rbren\Desktop\personal\Empresarial\software proy desarrollo\winfor-plantilla\plantilla\plantilla\obj\Debug\plantilla.csproj.CoreCompileInputs.cache
+C:\Users\rbren\Desktop\personal\Empresarial\software proy desarrollo\winfor-plantilla\plantilla\plantilla\obj\Debug\plantilla.exe
+C:\Users\rbren\Desktop\personal\Empresarial\software proy desarrollo\winfor-plantilla\plantilla\plantilla\obj\Debug\plantilla.pdb
